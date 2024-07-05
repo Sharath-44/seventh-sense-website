@@ -1,0 +1,22 @@
+.partner-slideshow .slick-prev:before,
+.partner-slideshow .slick-next:before {
+  color: black;
+}
+
+.partner-slideshow .slick-slide {
+  padding: 10px; /* Add padding around slides */
+}
+
+.partner-slideshow .slick-list {
+  margin: 0 -10px; /* Adjust the margin to match the padding */
+}
+
+.partner-slideshow img {
+  border-radius: 8px; 
+  transition: transform 0.3s, box-shadow 0.3s; /* Smooth transition for hover effect */
+}
+
+.partner-slideshow img:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+}
