@@ -105,8 +105,8 @@ export const projects = [
             "/skilling/s24.jpg",
             "/skilling/s25.JPG"
         ],
-        Youths_Trained: 600,
-        BPOS_Trained: 400,
+        Youth_Trained: 600,
+        BPOs_Trained: 400,
         Placed: 200,
         Micro_Women: 10,
         report: "https://drive.google.com/file/d/1P5ENp8dkl53otT16im9HXTvp9QHR1ftn/view?usp=drive_link"

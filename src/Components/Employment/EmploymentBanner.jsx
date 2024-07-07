@@ -2,11 +2,11 @@ import React from 'react';
 
 const EmploymentBanner = () => {
   return (
-    <div className="relative bg-gray-50 py-60 md:py-80">
+    <div className="relative bg-gray-50 py-40 md:py-60"> 
       <div className="absolute inset-0 z-0">
-        <img
-          src="/banner/employmentBanner.jpg"
-          alt="Team Banner"
+        <img 
+          src="/banner/employmentBanner.jpg" 
+          alt="Team Banner" 
           className="w-full h-full object-cover"
         />
       </div>
